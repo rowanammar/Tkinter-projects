@@ -17,4 +17,10 @@ To run these projects, you need to have Python 3 installed on your system. You a
 This is a demonstration of how each project looks 
 ### Clicker
 <img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/1adbd8e3-5e4b-4bf1-9dc0-422ff938a1ac" alt="Clicker" width="400"/>
+&nbsp;
 <img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/a2fdd851-70ef-4363-a0ad-3a6b32601418" alt="Clicker" width="400"/>
+
+### Countdown
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/e249160d-0bd4-4d22-85a6-427da33afc44" alt="Countdown" width="400"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/353fbd8c-5709-408c-aadc-1b27d3cfcd1b" alt="Countdown" width="350"/>
