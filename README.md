@@ -26,4 +26,7 @@ This is a demonstration of how each project looks
 <img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/353fbd8c-5709-408c-aadc-1b27d3cfcd1b" alt="Countdown" width="350"/>
 
 ### Password generator 
-<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/48ad9f09-964a-4042-9e33-d8a89ecc1f45" alt="Countdown" width="400"/>
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/55aaf463-9912-47e8-9847-ce45f0fe2af1" alt="Countdown" width="400"/>
+
+
+
