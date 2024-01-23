@@ -29,4 +29,11 @@ This is a demonstration of how each project looks
 <img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/55aaf463-9912-47e8-9847-ce45f0fe2af1" alt="Countdown" width="400"/>
 
 
+### GPA calculator
+
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/653a06f4-c08f-416c-ab7d-a2ccc80ea3d3" alt="Clicker" width="400"/>
+&nbsp;
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/3b3a366e-47f1-4805-9e3c-c627eeb8be04" alt="Clicker" width="400"/>
+
+
 
