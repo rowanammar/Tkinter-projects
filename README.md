@@ -31,9 +31,24 @@ This is a demonstration of how each project looks
 
 ### GPA calculator
 
-<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/653a06f4-c08f-416c-ab7d-a2ccc80ea3d3" alt="Clicker" width="400"/>
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/653a06f4-c08f-416c-ab7d-a2ccc80ea3d3" alt="GPA calculator" width="400"/>
 &nbsp;
-<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/3b3a366e-47f1-4805-9e3c-c627eeb8be04" alt="Clicker" width="400"/>
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/3b3a366e-47f1-4805-9e3c-c627eeb8be04" alt="GPA calculator" width="400"/>
+
+### Promodoro
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/1d865cbd-21bf-49a5-865f-dffffefaac31" alt="Promodoro" width="400"/>
+&nbsp;
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/3c622fd0-c3fc-472a-a65d-675c974f5242" alt="Promodoro" width="400"/>
+&nbsp;
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/2f937822-9841-4413-97d5-c03e4fab7202" alt="Promodoro" width="400"/>
+&nbsp;
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/dd329549-fc86-4637-a03d-8bf1736969e8" alt="Promodoro" width="400"/>
+&nbsp;
+
+
+### Number guessing game
+<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/d5123b39-b14d-4f77-b6df-8d094ff603c1" alt="Number guesser" width="400"/>
+
 
 
 
