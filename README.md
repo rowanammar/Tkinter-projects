@@ -6,7 +6,6 @@ This repo contains some fun and useful GUI Python projects made with Tkinter, a 
 - A pomodoro timer that helps you manage your work and break sessions
 - A countdown timer that displays the remaining time for a certain event
 - A GPA calculator that calculates your grade point average based on your grades and credits
-- A number guessing game that challenges you to guess a random number
 - A password generator that creates strong and secure passwords for your accounts
 
 ## Installation
@@ -44,10 +43,6 @@ This is a demonstration of how each project looks
 &nbsp;
 <img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/dd329549-fc86-4637-a03d-8bf1736969e8" alt="Promodoro" width="400"/>
 &nbsp;
-
-
-### Number guessing game
-<img src="https://github.com/rowanammar/Tkinter-projects/assets/142116846/d5123b39-b14d-4f77-b6df-8d094ff603c1" alt="Number guesser" width="400"/>
 
 
 
